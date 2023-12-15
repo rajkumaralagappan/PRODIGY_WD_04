@@ -10,9 +10,6 @@ Welcome to the GitHub repository for my personal portfolio website! This space i
 - **Contact Section:** Connect with me easily through the provided contact information or via social media links.
 - **Dynamic Content:** Built with MERN Stack, ensuring a modern and dynamic web experience.
 
-## 🌐 Live Demo
-
-Explore the live version of the portfolio [here] https://rajkumaralagappan2.github.io/cv
 
 ## 🛠️ Skills
 
@@ -28,12 +25,12 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/rajkumaralagappan2/cv.git
+   git clone https://github.com/rajkumaralagappan/PRODIGY_WD_04.git
    ```
 
 2. **Navigate to the project directory:**
    ```bash
-   cd my-portfolio
+   cd PRODIGY_WD_04
    ```
 
 3. **Open `index.html` in your browser or set up a local server.**
@@ -48,8 +45,6 @@ For details, check out the [Contributing Guidelines](CONTRIBUTING.md).
 
 This project is licensed under the [MIT License](LICENSE), allowing you to freely use and modify the code for your own projects.
 
-## 📧 Contact
 
-Feel free to reach out through the [contact form](#your-portfolio-contact-page) on my portfolio or connect with me on [LinkedIn](#your-linkedin-profile) and [Twitter](#your-twitter-profile).
 
 Let's create something amazing together! 🚀
